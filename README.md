@@ -1,4 +1,4 @@
-## Let´s Go Gohostt 👋
+## Let´s Go Gohostt 
 
 **B-Ghostt/B-Ghostt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
