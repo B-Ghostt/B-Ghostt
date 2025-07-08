@@ -1,19 +1,18 @@
-## Let´s Go Gohostt 
+# Catalogo
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  Catálogo do Restaurante
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>🍝 Restaurante Sabor & Arte</h1>
+    <p>Veja nosso cardápio!</p>
+  </header>
 
-**B-Ghostt/B-Ghostt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <main id="menu-container"></main>
 
-
-# Bruno Fernandes
-  
-📍 Sobral, CE  
-📧 bghoxtt@email.com  
-📞 (88) 99256-2188  
-
-
-## 🧑‍💻 Sobre mim:
-Entusiasta apaixonado por tecnologia sem experiência em aplicações web e mobile. Foco em desenvolvimento ágil, limpo e orientado a resultados.
-
-
-## 🎓 Educação
-
-**Programador Web – SENAC**  2025 
+  <script src="script.js"></script>
