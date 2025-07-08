@@ -9,7 +9,7 @@
 
 
 ## 🧑‍💻 Sobre mim:
-Entusiasta apaixonado por tecnologia sem experiência em aplicações web e mobile. Foco em desenvolvimento ágil, limpo e orientado a resultados.
+Entusiasta apaixonado por tecnologia em busca de experiência em aplicações web e mobile. Foco em desenvolvimento ágil, limpo e orientado a resultados.
 
 
 ## 🎓 Educação
