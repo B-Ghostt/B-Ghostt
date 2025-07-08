@@ -13,3 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# Bruno Fernandes
+
+**Desenvolvedor Full Stack**  
+📍 Sobral, CE  
+📧 bghoxtt@email.com  
+📞 (88) 99256-2188  
+
+---
+
+## 🧑‍💻 Sobre mim:
+Entusiasta apaixonado por tecnologia sem experiência em aplicações web e mobile. Foco em desenvolvimento ágil, limpo e orientado a resultados.
+
+
+## 🎓 Educação
+
+**Programador Web – SENAC**  2025 
